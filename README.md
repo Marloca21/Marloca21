@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marloca21
-- 👀 I’m interested in C++ and Javascript
-- 🌱 I’m currently learning C
+- 👀 I’m interested in PHP and Javascript
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on System engineering 
 - 📫 How to reach me : marlondesouzajardim@gmail.com
 
